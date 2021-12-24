@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+staticfiles
+
+# Tailwind
+tailwind.css
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# node_modules and bootstrap 
+node_modules
+
+# SCSS and SASS
+# .sass-cache
+# *.min.js
+# *.css
+# *.min.css
+# *.css.map
+# *.sass.map
+# *.scss.map
+
